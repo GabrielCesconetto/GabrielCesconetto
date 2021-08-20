@@ -11,5 +11,5 @@
 </div>
 <br>
 <div style="display: inline-block">
-  <img src="https://c.tenor.com/mQIZ9L0TIDUAAAAM/owl.gif" width="150" height="200">
+  <img src="https://c.tenor.com/mQIZ9L0TIDUAAAAM/owl.gif" alt="Coruja de chapéu" width="150" height="200">
 </div>
