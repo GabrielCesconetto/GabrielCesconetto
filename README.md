@@ -11,5 +11,13 @@
 </div>
 <br>
 <div style="display: inline-block">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/ width="40">
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/ width="40">
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/ width="40">
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/ width="40">
+  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg"/ width="40">
+ </div>
+<br>
+<div style="display: inline-block">
   <img src="https://c.tenor.com/mQIZ9L0TIDUAAAAM/owl.gif" alt="Coruja de chapéu" width="150" height="200">
 </div>
