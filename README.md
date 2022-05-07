@@ -4,11 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCesconetto&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: inline-block; margin: 0 auto;">
-  <a href="mailto:gabrielcesconettogc@gmail.com" style="margin-top: 20px;"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo"></a>
-</div>
 <br>
-<div style="display: inline-block">
+<div style="display: inline-block;">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40">
   <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40">
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" height="40">
