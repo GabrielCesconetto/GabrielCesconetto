@@ -1,11 +1,9 @@
-### Olá! Bem-vindo ao meu perfil! 🦉
-
-##
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCesconetto&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <h1> Olá! Bem-vindo ao meu perfil! 🦉 </h1>
+</div>
 
 <br>
-<div style="display: inline-block;">
+<div align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40">
   <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40">
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" height="40">
@@ -22,6 +20,6 @@
    &nbsp;
  </div>
 <br>
-<div style="display: inline-block">
+<div align="center">
   <img src="https://c.tenor.com/mQIZ9L0TIDUAAAAM/owl.gif" alt="Coruja de chapéu" width="150" height="200">
 </div>
