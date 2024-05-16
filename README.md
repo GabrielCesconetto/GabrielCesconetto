@@ -6,7 +6,8 @@
 <div align="center">
   <img alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40">
   <img alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40">
-  <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" height="40">
+  <img alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40">
+   <img alt="TypeScript" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" width="40" height="40">
   <img alt="NodeJS" src="https://seeklogo.com/images/N/nodejs-logo-54107C5EDD-seeklogo.com.png" width="40" height="40">
   <img alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png" width="40" height="40">
   <img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40" height="40">
