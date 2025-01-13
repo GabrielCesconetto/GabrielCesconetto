@@ -21,7 +21,7 @@
   <img alt="Electron" title="Electron" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" width="40" height="40">
   <img alt="JQuery" title="JQuery" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="40" height="40">
    &nbsp;
-  <img alt="Git" title="Git" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="40" height="40">
+  <img alt="Git" title="Git" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40" height="40">
    &nbsp;
  </div>
 <br>
