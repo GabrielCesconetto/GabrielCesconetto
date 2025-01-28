@@ -7,8 +7,8 @@
   <img alt="HTML" title="HTML5" src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" height="40">
   <img alt="CSS" title="CSS3" src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40">
   <img alt="JavaScript" title="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40">
-  <img alt="TypeScript" title="TypeScript" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" width="40" height="40">
-  <img alt="NodeJS" title="NodeJS" src="https://seeklogo.com/images/N/nodejs-logo-54107C5EDD-seeklogo.com.png" width="40" height="40">
+  <img alt="TypeScript" title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" width="40" height="40">
+  <img alt="NodeJS" title="NodeJS" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp&w=256" width="40" height="40">
   <img alt="Cpp" title="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="40" height="40">
   <img alt="Linux" title="Linux" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="30" height="40">
   <img alt="Tailwind" title="Tailwind" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-1024x615-fdeis5r1.png" width="60" height="40">
