@@ -13,7 +13,7 @@
   <img alt="Linux" title="Linux" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="30" height="40">
   <img alt="Tailwind" title="Tailwind" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-1024x615-fdeis5r1.png" width="60" height="40">
   <img alt="PostgreSQL" title="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" width="40" height="40">
-  <img alt="SQLite" title="SQLite" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" width="40" height="40">
+  <img alt="SQLite" title="SQLite" src="https://api.nuget.org/v3-flatcontainer/sqlite.redist/3.8.4.2/icon" width="40" height="40">
   <img alt="MySQL" title="MySQL" src="https://www.scriptcase.com.br/lp/images/mysql/mysql-logo.png" width="40" height="40">
   <img alt="MongoDB" title="MongoDB" src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" width="40" height="40">
   <img alt="Bootstrap" title="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png" width="40" height="40">
